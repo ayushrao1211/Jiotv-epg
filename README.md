@@ -1,1 +1,1 @@
-As some of other epg provider not working properly. I will be providing the actual JioTV Go epg file for directly putting into Tivimate or IPTV.
+As some of other epg provider not working properly. I will be providing the actual JioTV Go epg file for directly putting into Tivimate or IPTV. Check inside of releases rather than in here cuz its just an testing.
